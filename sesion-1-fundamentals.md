@@ -1335,6 +1335,9 @@ If OpenCode doesn't install, alternative: ollama launch opencode (new shortcut i
 ```json
 {
   "$schema": "https://opencode.ai/config.json",
+  "permission": {
+    "*": "ask"
+  },
   "provider": {
     "ollama": {
       "models": {
