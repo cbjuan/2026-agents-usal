@@ -1344,14 +1344,7 @@ If OpenCode doesn't install, alternative: ollama launch opencode (new shortcut i
         "gemma4": {
           "name": "gemma4",
           "tools": true,
-          "reasoning": true,
-          "options": { "num_ctx": 32768 }
-        },
-        "qwen3.5:4b": {
-          "name": "qwen3.5:4b",
-          "tools": true,
-          "reasoning": true,
-          "options": { "num_ctx": 32768 }
+          "reasoning": true
         }
       },
       "name": "Ollama",
