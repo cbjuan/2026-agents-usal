@@ -834,7 +834,7 @@ Specific figures in consultancy reports vary month to month. What matters: adopt
 
 ---
 
-# Ttools · live example · setup
+# Tools · live example · setup
 
 **Instructor demo** — same stack you'll install in Block 4: OpenCode + Ollama + a local open-weights model.
 
